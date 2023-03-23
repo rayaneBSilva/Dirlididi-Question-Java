@@ -13,6 +13,7 @@ public class PoeticWords {
         } else {
             message = "N";
         }
+        sc.close();
         System.out.println(message);
     }
 }
