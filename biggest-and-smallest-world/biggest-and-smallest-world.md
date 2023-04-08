@@ -6,7 +6,8 @@ Um programa passa para o usuário 5 palavras e pede que o usuário imprima a mai
 
 Input
 
-```oi
+```
+oi
 voce
 como
 constitucionalmente
